@@ -1,3 +1,3 @@
 # Panthium-Release
 
-Documentation and installation here: https://panthiums-organization.gitbook.io/untitled/
+Documentation and installation here: https://panthiums-organization.gitbook.io
